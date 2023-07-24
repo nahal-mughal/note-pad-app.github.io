@@ -16,6 +16,10 @@
     cursor: pointer;
 }
 
+.info{
+    background-color: #A29BFE;
+}
+
 #main {
     width: 100%;
     min-height: 100vh;
